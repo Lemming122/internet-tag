@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=white>.gg/wAShdc4sf</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#27A3F5>WELCOME TOO INTERNET TAG!</color>\n\n<color=#F5AD27>CURRENT UPDATE: FALL23</color>\n<color=#F527C2>OUR STAFF TEAM : ZEON,CHEEZIT OR C,KAT</color>\n<color=#4D27F5>harmony was here ngl</color>\n<color=#F5272E>THE DEV IS HARMONY ngl</color>\n<color=#ac1a00>OWNERS ARE HARMONY,BOBA</color>\n\n<color=#91A3B0>discord.gg/wAShdc4sf</color>",
+        "MOTD": "<color=#27A3F5>WELCOME TOO INTERNET TAG!</color>\n\n<color=#F5AD27>CURRENT UPDATE: FALL23</color>\n<color=#F527C2>OUR STAFF TEAM : ZEON,CHEEZIT OR C,KAT,AVII</color>\n<color=#4D27F5>harmony was here ngl</color>\n<color=#F5272E>THE DEV IS HARMONY ngl</color>\n<color=#ac1a00>OWNERS ARE HARMONY,BOBA</color>\n\n<color=#91A3B0>discord.gg/wAShdc4sf</color>",
         "TOBAlreadyOwnCompTxt": "discord.gg/wAShdc4sf",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAG",
         "TOBDefCompTxt": "discord.gg/wAShdc4sf",
