@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=black>RATE THE GAME 5 STARS!</color>\n<color=white>discord.gg/mhkdvHBg8</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#27F5F2>GAME IS BACK UP MY APPOLIGIES FOR THE WAIT - HARMONY</color>\n\n<color=#F59527>CURRENT UPDATE: HALLOWEEN 2024</color>\n<color=#cacfd2>OUR STAFF TEAM CHEEZIT,AVII,ZEON,HARMONY,BOBA,KAT</color>\n<color=#F527F5>HARMONY MADE THIS MOTD CUZ HES LWK GOATED</color>\n<color=#FFFFFF>For whoever wants to save their life will lose it, but whoever loses their life for me will find it.</color>\n<color=#FFFFFF>BIBLE VERSE OF THE DAY IS THE WHITE TEXT!</color>\n\n<color=#91A3B0>discord.gg/JzBZhWqfU</color>",
+        "MOTD": "<color=#27F5F2>GAME IS BACK UP MY APPOLIGIES FOR THE WAIT - HARMONY</color>\n\n<color=#F59527>CURRENT UPDATE: HALLOWEEN 2024</color>\n<color=#cacfd2>OUR STAFF TEAM CHEEZIT,ZEON,HARMONY,ARTIDIH,BOBA,KAT,KOVO</color>\n<color=#F527F5>HARMONY MADE THIS MOTD CUZ HES LWK GOATED</color>\n<color=#FFFFFF>For whoever wants to save their life will lose it, but whoever loses their life for me will find it.</color>\n<color=#FFFFFF>BIBLE VERSE OF THE DAY IS THE WHITE TEXT!</color>\n\n<color=#91A3B0>discord.gg/JzBZhWqfU</color>",
         "TOBAlreadyOwnCompTxt": "discord.gg/JzBZhWqfU",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAG ON TOP",
         "TOBDefCompTxt": "discord.gg/JzBZhWqfU",
