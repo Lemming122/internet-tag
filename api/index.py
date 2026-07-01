@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=black>RATE THE GAME 5 STARS!</color>\n<color=white>discord.gg/mhkdvHBg8</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#27F5F2>GAME IS BACK UP MY APPOLIGIES FOR THE WAIT - HARMONY NOTE : COSMETICS ARE BROKEN RIGHT NOW.</color>\n\n<color=#F59527>CURRENT UPDATE: BACK TOO SCHOOL : COSMETICS ARE BROKEN FOR NOW</color>\n<color=#cacfd2>OUR STAFF TEAM CHEEZIT,ZEON,HARMONY,ARTIDIH,BOBA,KAT,KOVO</color>\n<color=#F527F5>HARMONY MADE THIS MOTD CUZ HES LWK GOATED</color>\n<color=#FFFFFF>The Lord will fulfill his purpose for me; your love, O Lord, endures forever — do not abandon the works of your hands.</color>\n<color=#FFFFFF>HAVE A GREAT DAY.</color>\n\n<color=#91A3B0>discord.gg/JzBZhWqfU</color>",
+        "MOTD": "<color=#27F5F2>GAME IS ALMOST OUT ON PUBLIC APPLAB - HARMONY NOTE</color>\n\n<color=#F59527>CURRENT UPDATE: CHRISTMAS 2023 DO NOT BALLOON GLITCH IT IS BANNABLE.</color>\n<color=#cacfd2>OUR STAFF TEAM CHEEZIT,ZEON,HARMONY,ARTIDIH,BOBA,KAT,KOVO</color>\n<color=#F527F5>HARMONY MADE THIS MOTD CUZ HES LWK GOATED</color>\n<color=#FFFFFF>The Lord will fulfill his purpose for me; your love, O Lord, endures forever — do not abandon the works of your hands.</color>\n<color=#FFFFFF>HAVE A GREAT DAY.</color>\n\n<color=#91A3B0>discord.gg/JzBZhWqfU</color>",
         "TOBAlreadyOwnCompTxt": "discord.gg/JzBZhWqfU",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAG ON TOP",
         "TOBDefCompTxt": "discord.gg/JzBZhWqfU",
