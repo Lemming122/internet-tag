@@ -210,6 +210,7 @@ def titledata():
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAG ON TOP",
         "TOBDefCompTxt": "discord.gg/JzBZhWqfU",
         "TOBDefPurchaseBtnDefTxt": "INTERNET TAG ON TOP",
+        "MOTDTEXTTxt": "INTERNET TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
