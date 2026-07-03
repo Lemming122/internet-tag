@@ -14,7 +14,7 @@ def get_auth_headers():
     return {"Content-Type": "application/json", "X-SecretKey": SECRET_KEY}
 
 
-@app.route('it69.vercel.app/api/TD', methods=['POST'])
+@app.route('/api/TD', methods=['POST'])
 def titled_data():
     return jsonify({"MOTD":"WELCOME TOO INTERNET TAGGING"})
 
