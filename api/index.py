@@ -119,7 +119,7 @@ def consume_oculus_iap():
     return jsonify({"error": True})
 
 
-@app.route("itdhtag126456.vercel.app/api/photon", methods=["POST"])
+@app.route("/api/photon", methods=["POST"])
 def photonauth():
     AA = request.get_json()
     PlayFabId = AA.get("PlayFabId")
