@@ -26,7 +26,7 @@ def playfab_authentication():
     platform = data.get("Platform", "Null")
 
     login_req = requests.post(
-        url=f"https://{TITLE_ID}.playfabapi.com/Server/LoginWithServerCustomId",
+        url=f"https://{AEACC}.playfabapi.com/Server/LoginWithServerCustomId",
         json={
             "ServerCustomId": f"OCULUS{oculus_id}",
             "CreateAccount": True
@@ -45,7 +45,7 @@ def playfab_authentication():
 
         
         requests.post(
-            url=f"https://{TITLE_ID}.playfabapi.com/Client/LinkCustomID",
+            url=f"https://{AEACC}.playfabapi.com/Client/LinkCustomID",
             json={"CustomID": f"OCULUS{oculus_id}", "ForceLink": True},
             headers={
                 "content-type": "application/json",
