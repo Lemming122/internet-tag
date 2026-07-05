@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=white.GG/k4383b3Tc</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#3C27F5>WELCOME TO INTERNET TAG!</color>\n\n<color=#27F55B>CURRENT UPDATE: XMAS23</color>\n<color=#F527BB>BOOST THE DISCORD FOR ALL COSMETICS</color>\n<color=#F5E727>HARMONY MADE THIS MOTD</color>\n<color=#F52727>OUR STAFF ARE : ARTIDIH HARMONY KAT SINNER ADRI EURO NOXIR KOVO ZEON</color>\n<color=#A327F5>DISCORD.GG/k4383b3Tc</color>\n\n<color=#660994>Righteousness exalts a nation, but sin is a disgrace to any people —Proverbs 14:34</color>",
+        "MOTD": "<color=#3C27F5>WELCOME TO INTERNET TAG!</color>\n\n<color=#27F55B>CURRENT UPDATE: CANT SEA ME 2024</color>\n<color=#F527BB>BOOST THE DISCORD FOR ALL COSMETICS</color>\n<color=#F5E727>HARMONY MADE THIS MOTD</color>\n<color=#F52727>OUR STAFF ARE : ARTIDIH HARMONY KAT SINNER ADRI EURO NOXIR KOVO ZEON</color>\n<color=#A327F5>DISCORD.GG/k4383b3Tc</color>\n\n<color=#660994>Righteousness exalts a nation, but sin is a disgrace to any people —Proverbs 14:34</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/k4383b3Tc",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAGGING ON TOP",
         "TOBDefCompTxt": "DISCORD.GG/k4383b3Tc",
