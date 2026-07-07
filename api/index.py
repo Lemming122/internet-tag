@@ -73,7 +73,7 @@ def main():
     return """
         <html>
             <head>
-                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+                <link href="https://discord.com/channels/1518249294577274900/1518249295063679129/1523917557902348419" rel="stylesheet">
             </head>
             <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: white; text-align: center; padding: 50px;">
                 <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
