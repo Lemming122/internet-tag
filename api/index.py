@@ -75,8 +75,8 @@ def main():
             <head>
                 <link href="https://klipy.com/gifs/ishowspeed-ishowspeed-shocked-1" rel="stylesheet">
             </head>
-            <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: white; text-align: center; padding: 50px;">
-                <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+            <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: black; text-align: center; padding: 50px;">
+                <h1 style="color: black; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
                     Wsp Broksie. This is a private backend!
                 </h1>
                 <p style="font-size: 18px;">Christmas Tag Backend Server Running Smoothly!</p>
