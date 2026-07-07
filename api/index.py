@@ -198,23 +198,23 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/k4383b3Tc</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/k4383b3Tc</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/k4383b3Tc</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/k4383b3Tc</color>",
-        "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=white.GG/k4383b3Tc</color>",
+        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
+        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
+        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
+        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
+        "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=whiteDISCORD.GG/INTERNETTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#3C27F5>WELCOME TO INTERNET TAG!</color>\n\n<color=#27F55B>CURRENT UPDATE: CANT SEA ME 2024</color>\n<color=#F527BB>BOOST THE DISCORD FOR ALL COSMETICS</color>\n<color=#F5E727>HARMONY MADE THIS MOTD</color>\n<color=#F52727>OUR STAFF ARE : ARTIDIH HARMONY KAT SINNER ADRI EURO NOXIR KOVO ZEON</color>\n<color=#A327F5>DISCORD.GG/k4383b3Tc</color>\n\n<color=#660994>Righteousness exalts a nation, but sin is a disgrace to any people —Proverbs 14:34</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/k4383b3Tc",
+        "MOTD": "<color=#3C27F5>WELCOME TO INTERNET TAG!</color>\n\n<color=#27F55B>CURRENT UPDATE: CANT SEA ME 2024</color>\n<color=#F527BB>BOOST THE DISCORD FOR ALL COSMETICS</color>\n<color=#F5E727>HARMONY MADE THIS MOTD</color>\n<color=#F52727>OUR STAFF ARE : ARTIDIH HARMONY KAT SINNER ADRI EURO NOXIR KOVO ZEON</color>\n<color=#A327F5>DISCORD.GG/INTERNETTAG</color>\n\n<color=#660994>—Proverbs 14:34</color>",
+        "TOBAlreadyOwnCompTxt": "DISCORD.GG/INTERNETTAG",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAGGING ON TOP",
-        "TOBDefCompTxt": "DISCORD.GG/k4383b3Tc",
+        "TOBDefCompTxt": "DISCORD.GG/INTERNETTAG",
         "TOBDefPurchaseBtnDefTxt": "INTERNET TAGGING ON TOP",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "TOS_2024.09.20": "DISCORD.GG/k4383b3Tc",
+        "TOS_2024.09.20": "DISCORD.GG/INTERNETTAG",
         "EnableTwoFactorAuth": False,
         "MaxLoginAttempts": 5,
         "SessionTimeoutMinutes": 30,
@@ -246,7 +246,7 @@ def titledata():
         "RegionPriority": ["US", "EU", "AS"],
         "EnableSpectatorMode": True,
         "TutorialEnabled": True,
-        "NewsFeedUrl": "DISCORD.GG/k4383b3Tc",
+        "NewsFeedUrl": "DISCORD.GG/INTERNETTAG",
         "UpdateCheckInterval": 3600,
         "BackupInterval": 86400,
         "LogLevel": "INFO",
@@ -291,7 +291,7 @@ def titledata():
         "CustomSkinUploadLimit": 5,
         "ServerRestartIntervalHours": 24,
         "MaxReportCountPerDay": 5,
-        "BanAppealUrl": "DISCORD.GG/k4383b3Tc",
+        "BanAppealUrl": "DISCORD.GG/INTERNETTAG",
         "EnableCrossplay": True,
         "DefaultFOV": 90,
         "MaxFOV": 120,
@@ -312,7 +312,7 @@ def titledata():
         "EnableVoiceModeration": True,
         "VoiceModerationThreshold": 0.9,
         "EnablePlayerFeedback": True,
-        "FeedbackSubmissionUrl": "DISCORD.GG/V4mWq6yMZ"
+        "FeedbackSubmissionUrl": "DISCORD.GG/INTERNETTAG"
     }
     return jsonify(response_data)
 
