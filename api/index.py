@@ -15,9 +15,9 @@ logger = logging.getLogger(__name__)
 
 class GameInfo:
     def __init__(self):
-        self.TitleId: str = "2CB47"  # Playfab Title Id
-        self.SecretKey: str = "FPJS6RK9RQ9GEM93T8ZNW4BSD9HXUNFGDKN345PPQ48CXHJQOP"  # Playfab Secret Key
-        self.ApiKey: str = "OC|1213402488517400|2a505ce6c1a990938a1309eb017b7872"  # App Api Key (Oculus/Graph API)
+        self.TitleId: str = ""  # Playfab Title Id
+        self.SecretKey: str = ""  # Playfab Secret Key
+        self.ApiKey: str = ""  # App Api Key (Oculus/Graph API)
 
     def get_auth_headers(self):
         return {"content-type": "application/json", "X-SecretKey": self.SecretKey}
@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=white.GG/INTERNETTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#3C27F5>WELCOME TO INTERNET TAG!</color>\n\n<color=#27F55B>CURRENT UPDATE: HALLOWEEN 2024 UPDATE DISCORD.GG/INTERNETTAG</color>\n<color=#F527BB>BOOST THE DISCORD FOR ALL COSMETICS</color>\n<color=#F5E727>WHAT THE MODS ARE: BUTTON 1. SPEEDBOOST. 2. INCREASE LONG ARMS. 3. DECREASE LONG ARMS 4. SLIP SLAP. 5. PUNCHMOD 6. DISCORD LINK</color>\n<color=#F52727>OUR STAFF ARE : ARTIDIH HARMONY KAT REM WOCK YUKI GOOFEMAN MESSIAH ADRI</color>\n<color=#A327F5>DISCORD.GG/INTERNETTAG</color>\n\n<color=#660994> —Philippians 2:9-11</color>",
+        "MOTD": "<color=#3C27F5>FUCK MODDERS
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/INTERNETTAG",
         "TOBAlreadyOwnPurchaseBundle": "INTERNET TAGGING ON TOP",
         "TOBDefCompTxt": "DISCORD.GG/INTERNETTAG",
