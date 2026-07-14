@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 
 class GameInfo:
     def __init__(self):
-        self.TitleId: str = ""  # Playfab Title Id
-        self.SecretKey: str = ""  # Playfab Secret Key
+        self.TitleId: str = "8A822"  # Playfab Title Id
+        self.SecretKey: str = "7IZU6H9CDUQPCS81O4WJ84D4143DRFSBIQ7IA8G5CRM9573W4J"  # Playfab Secret Key
         self.ApiKey: str = ""  # App Api Key (Oculus/Graph API)
 
     def get_auth_headers(self):
@@ -73,14 +73,14 @@ def main():
     return """
         <html>
             <head>
-                <link href="https://picsart.onelink.me/VgrZ/73703z8i" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
             </head>
-            <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: black; text-align: center; padding: 50px;">
-                <h1 style="color: black; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+            <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: white; text-align: center; padding: 50px;">
+                <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
                     Wsp Broksie. This is a private backend!
                 </h1>
-                <p style="font-size: 18px;">SPREAD THE GOSPEL!</p>
-                <img src="https://picsart.onelink.me/VgrZ/73703z8i" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
+                <p style="font-size: 18px;">Christmas Tag Backend Server Running Smoothly!</p>
+                <img src="https://aicdn.picsart.com/275c6ae1-73a4-4cee-b3f5-45ccfa4499ae.png" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
                 <p style="font-size: 14px; opacity: 0.8;">Image loads when the server works!</p>
             </body>
         </html>
@@ -198,23 +198,23 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/INTERNETTAG</color>",
-        "SeasonalStoreBoardSign": "<color=white>RATE THE GAME 5 STARS!</color>\n<color=white.GG/INTERNETTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#3C27F5>FUCK MODDERS
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/INTERNETTAG",
-        "TOBAlreadyOwnPurchaseBundle": "INTERNET TAGGING ON TOP",
-        "TOBDefCompTxt": "DISCORD.GG/INTERNETTAG",
-        "TOBDefPurchaseBtnDefTxt": "INTERNET TAGGING ON TOP",
+        "MOTD": "<color=#FFC0CB>WELCOME TO CHRISTMAS TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
+        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
+        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
+        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
+        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "TOS_2024.09.20": "DISCORD.GG/INTERNETTAG",
+        "TOS_2024.09.20": "DISCORD.GG/CHRISTMASTAG",
         "EnableTwoFactorAuth": False,
         "MaxLoginAttempts": 5,
         "SessionTimeoutMinutes": 30,
@@ -246,7 +246,7 @@ def titledata():
         "RegionPriority": ["US", "EU", "AS"],
         "EnableSpectatorMode": True,
         "TutorialEnabled": True,
-        "NewsFeedUrl": "DISCORD.GG/INTERNETTAG",
+        "NewsFeedUrl": "https://discord.gg/CHRISTMASTAG",
         "UpdateCheckInterval": 3600,
         "BackupInterval": 86400,
         "LogLevel": "INFO",
@@ -291,7 +291,7 @@ def titledata():
         "CustomSkinUploadLimit": 5,
         "ServerRestartIntervalHours": 24,
         "MaxReportCountPerDay": 5,
-        "BanAppealUrl": "DISCORD.GG/INTERNETTAG",
+        "BanAppealUrl": "https://discord.gg/CHRISTMASTAG",
         "EnableCrossplay": True,
         "DefaultFOV": 90,
         "MaxFOV": 120,
@@ -312,7 +312,7 @@ def titledata():
         "EnableVoiceModeration": True,
         "VoiceModerationThreshold": 0.9,
         "EnablePlayerFeedback": True,
-        "FeedbackSubmissionUrl": "DISCORD.GG/INTERNETTAG"
+        "FeedbackSubmissionUrl": "https://discord.gg/CHRISTMASTAG/feedback"
     }
     return jsonify(response_data)
 
