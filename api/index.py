@@ -10,9 +10,8 @@ from datetime import datetime, timedelta, timezone
 class GameInfo:
     def __init__(self) -> None:
         self.TitleId:   str = ""
-        self.SecretKey: str = "FPJS6RK9RQ9GEM93T8ZNW4BSD9HXUNFGDKN345PPQ48CXHJQOP"
-        self.AppCreds:  str = "OC|1229396113592027|2d4f87543abfdbc5a8fa661d512e69f8"
-        self.OculusAppId: str = "1229396113592027"
+        self.SecretKey: str = ""
+        self.OculusAppId: str = ""
         self.EntitlementCheck: bool = False
         self.MothershipJwtSecret: str = "asgdfdssduifgasiudgyiusdfgf8sdgtfd97gsd978sdgfgsdfuifgsiudfgiusdfgiusdgfiusgdiugsidgf"  # Set this to a long random secret string
 
