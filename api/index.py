@@ -681,7 +681,7 @@ def titledata():
         "GorillanalyticsChance": 4320,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "MOTD": "<color=orange>WELCOME TO INTERNET TAG</color>  <color=green>HAVE FUN!</color>  <color=red>HI</color>  <color=red>GAMES MODDED AND WILL BE FIXED SOON MAYBE !</color>  <color=yellow>IF YOU ENJOY THE GAME, PLEASE GIVE IT  (5 STARS)!</color> <color=yellow>discord.gg/internettag</color>",
+        "MOTD": "<color=orange>GAMES DOWN PLEASE JOIN DISCORD.GG/LARPTAG</color>  <color=green>HAVE FUN!</color>  <color=red>HI</color>  <color=red>GAMES MODDED AND WILL BE FIXED SOON MAYBE !</color>  <color=yellow>IF YOU ENJOY THE GAME, PLEASE GIVE IT  (5 STARS)!</color> <color=yellow>discord.gg/internettag</color>",
         "SeasonalStoreBoardSign": "<color=#ff7241>FALL!</color>",
         "TOS_2024.09.20": "discord.gg/internettag",
         "TOBAlreadyOwnCompTxt": "discord.gg/internettagH",
