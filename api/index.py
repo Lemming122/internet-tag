@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 # APK METHOD LAND BACKEND POSTED BY L1RSON110
 class GameInfo:
     def __init__(self) -> None:
-        self.TitleId:   str = "2CB47"
+        self.TitleId:   str = ""
         self.SecretKey: str = "FPJS6RK9RQ9GEM93T8ZNW4BSD9HXUNFGDKN345PPQ48CXHJQOP"
         self.AppCreds:  str = "OC|1229396113592027|2d4f87543abfdbc5a8fa661d512e69f8"
         self.OculusAppId: str = "1229396113592027"
